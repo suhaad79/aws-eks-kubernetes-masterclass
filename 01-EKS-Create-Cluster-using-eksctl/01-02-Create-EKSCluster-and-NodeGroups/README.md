@@ -1,4 +1,4 @@
-# Create EKS Cluster & Node Groups
+# Create EKS Cluster with Node Groups
 
 ## Step-00: Introduction
 - Understand about EKS Core Objects
